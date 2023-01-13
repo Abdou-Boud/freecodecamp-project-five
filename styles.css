@@ -80,14 +80,14 @@
     color: white;
     font-size: 24px;
     text-transform: capitalize;
-    padding: 22px;
+    padding: 23px;
     transition: .3s;
     
   }
  @media (max-width: 767px) {
     header nav ul a {
       font-size: 18px;
-      padding: 26px;
+      padding: 25px;
     }}
   
   header nav ul a:hover {
