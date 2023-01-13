@@ -232,7 +232,7 @@
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: calc(100vh - 155px), auto ;
+    height: calc(100vh - 155px);
     background-color: #303841;
     padding: 100px 0 ;
   }
